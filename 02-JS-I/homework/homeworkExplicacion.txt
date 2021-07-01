@@ -1,0 +1,42 @@
+Variables
+   Es un palabra que guarda algo (una palabra, un numero) en la 
+   memoria de la computadora para usarlo a lo largo de un programa.
+   Las variables pueden cambiar su valor a lo largo del programa.
+
+Strings
+   Un tipo de informacion que se compone por Texto ya sea letras, 
+   numeros o simbolos.
+
+Funciones (argumentos, return)
+   Son instrucciones (pasos) que le dicen a la computadora como 
+   hacer una trabajo que sera repetitivo y las puedes llamar cuando
+   las necesitas para hacer el trabajo.
+   Se escriben algo asi:
+
+     Funcion (argumento1, argumento2, argumento...)
+      {
+         Haz algo con el argumento1, argumento2, argumento...
+         siguiendo los siguientes pasos
+         Return
+         }
+     Los argumentos son la informacion que se trabajara dentro de 
+     la Funcion.
+     Cuando se termina la funcion podemos regresarle a la 
+     computadora un resultado; esto se hace dando la instruccion 
+     de 
+     Return Algo (algo es lo el resultado que queremos usar despues).
+
+Declaraciones if
+   Nos sirven para que la computadora pueda elegir entre una cosa
+   u otra. Ejemplo
+      un IF lo puedes leer como un SI
+      Si (if) (hace frio) 
+       { haz esto cuando es verdad (hace frio)}
+      si no 
+      { haz esto otro cuando no es verdad (no hace firo) }
+
+Valores booleanos (true, false)
+   Estos valores nos indican si algo es verdad o es mentira
+   true = verdad
+   false = mentira
+   nos sirven para usar los (if) que explique anteriormenente
