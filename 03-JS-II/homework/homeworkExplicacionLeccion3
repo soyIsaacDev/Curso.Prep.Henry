@@ -1,0 +1,42 @@
+FOR
+ Es una forma de decirle al programa que algo se debe repetir por
+ las veces que queremos
+
+ Se escribe asi:
+    for(i = o; i < 10; i++) {
+         Repite esta instruccion las veces que queremos
+    }
+
+    Explicacion de la primera parte
+        (i = o;            i < 10;                i++)
+    Empezamos en 0   Se repite hasta que    Agrega 1 a la i para 
+                       i es menor que el       contar y llegar 
+                     numero que definimos          al 10
+                       en este caso 10
+
+AND (&&)
+  Se lee como Y
+  Se usa al evaluar un valor y quieres saber si dos cosas  
+  son verdaderas al mismo tiempo
+  Ejemplo:
+  (Juan es mayor que Pedro &&  Juan es inteligente)
+                            Y
+                  Evalua que ambas cosas
+                     sean verdaderas
+OR (||)
+  Se lee como O
+  Se usa al evaluar un valor y quieres saber si 
+  una cosa o la otra es verdadera
+  Ejemplo:
+  (Juan tiene pelo corto ||  Juan tiene 10 años)
+                         O
+               Evalua que ambas cosas
+                   sean verdaderas
+
+NOT (!)
+  Se lee como NO
+  Se usa para saber si algo NO es igual a otra cosa
+  Ejemplo
+        (Juan !Tiene 30 años)
+              NO
+       Evalua que no sea igual
