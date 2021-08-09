@@ -1,4 +1,7 @@
 // Revisar en clase funcion dePalabrasAFrase; como hacerlo con for loop
+// Ultimo ejercico (continueStatement). El test esta bien?
+// Segun yo se debe saltar un resultado (el 5to)
+
 // No cambies los nombres de las funciones.
 
 function devolverPrimerElemento(array) {
